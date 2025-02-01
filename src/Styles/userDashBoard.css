@@ -1,0 +1,48 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.selected{
+    -fx-border-color: white;
+    -fx-text-fill:white;
+    -fx-border-width:4;
+    -fx-font-weight: bold;
+}
+.sideBarLabel{
+    -fx-text-fill:white;
+    -fx-border-color: white;
+
+}
+
+.searchBorderGreen{
+    -fx-border-color: green;
+    -fx-border-width: 2;
+}
+.searchBorderRed{
+    -fx-border-color: #ff3399;
+    -fx-border-width: 2;
+}
+
+.pending{
+    -fx-background-color: #ccff66;
+}
+.vbox{
+    -fx-border-color: white;
+    -fx-spacing:5px;
+    -fx-border-width:3px;
+    -fx-height:20px;
+    -fx-padding: 10px;
+    -fx-padding-left: 20px;
+    -fx-width: 30px;
+    -fx-text-align: center;
+    -fx-font-size: 15px;
+    -fx-align-items: center;
+}
+.button{
+    -fx-font-size: 12px;
+    -fx-background-color: #ccffff;
+    -fx-font-weight: bold;
+}

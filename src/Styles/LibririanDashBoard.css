@@ -1,0 +1,35 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.selected{
+    -fx-border-color: white;
+    -fx-text-fill:white;
+    -fx-border-width:4;
+    -fx-font-weight: bold;
+}
+.sideBarLabel{
+    -fx-text-fill:white;
+    -fx-border-color: white;
+
+}
+.approved{
+    -fx-background-color: #cccc00;
+}
+
+.reject{
+    -fx-background-color: #cc00cc;
+}
+.actionButtonA{
+    -fx-background-color: #00cccc;
+    -fx-width: 15;
+    -fx-text-align: center;
+
+}
+.actionButtonR{
+    -fx-background-color: #ccccff; 
+    -fx-width: 15;
+}
